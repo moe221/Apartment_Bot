@@ -1,0 +1,14 @@
+2022/05/28-15:19:46.725 2f03 Creating DB /Users/Moe/code/moe221/Apartment_Bot/notebooks/~/Users/Moe/Library/Application Support/Google/Chrome/Default/Default/Local Storage/leveldb since it was missing.
+2022/05/28-15:19:46.817 2f03 Reusing MANIFEST /Users/Moe/code/moe221/Apartment_Bot/notebooks/~/Users/Moe/Library/Application Support/Google/Chrome/Default/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/28-15:20:00.517 2f03 Level-0 table #5: started
+2022/05/28-15:20:00.539 2f03 Level-0 table #5: 16572 bytes OK
+2022/05/28-15:20:00.571 2f03 Delete type=0 #3
+2022/05/28-15:20:48.036 2f03 Level-0 table #7: started
+2022/05/28-15:20:48.052 2f03 Level-0 table #7: 19555 bytes OK
+2022/05/28-15:20:48.091 2f03 Delete type=0 #4
+2022/05/28-15:21:10.210 3203 Level-0 table #9: started
+2022/05/28-15:21:10.236 3203 Level-0 table #9: 94017 bytes OK
+2022/05/28-15:21:10.272 3203 Delete type=0 #6
+2022/05/28-15:22:55.529 2f03 Level-0 table #11: started
+2022/05/28-15:22:55.545 2f03 Level-0 table #11: 16766 bytes OK
+2022/05/28-15:22:55.578 2f03 Delete type=0 #8
